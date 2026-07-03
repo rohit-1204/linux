@@ -1,1 +1,35 @@
-t
+Linux-Notes/
+│
+├── 00-Introduction.md
+├── 01-Linux-History.md
+├── 02-Installing-Linux.md
+├── 03-Linux-File-System.md
+├── 04-Terminal-Basics.md
+├── 05-File-and-Directory-Commands.md
+├── 06-Permissions.md
+├── 07-Users-and-Groups.md
+├── 08-Editors-vim-nano.md
+├── 09-Searching.md
+├── 10-Compression.md
+├── 11-Process-Management.md
+├── 12-Systemd-and-Services.md
+├── 13-Package-Managers.md
+├── 14-Networking.md
+├── 15-Disk-Management.md
+├── 16-Bash-Scripting.md
+├── 17-SSH.md
+├── 18-Cron-Jobs.md
+├── 19-Environment-Variables.md
+├── 20-Logs.md
+├── 21-System-Monitoring.md
+├── 22-Advanced-Shell.md
+├── 23-Regular-Expressions.md
+├── 24-Awk-Sed.md
+├── 25-Grep.md
+├── 26-System-Administration.md
+├── 27-Security.md
+├── 28-Docker-Basics.md
+├── 29-Linux-Interview-Questions.md
+├── 30-100-Linux-Challenges.md
+├── CheatSheet.md
+└── README.md
