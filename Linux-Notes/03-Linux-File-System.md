@@ -11,24 +11,24 @@
 # Table of Contents
 
 1. [Learning Objectives](#learning-objectives)
-2. What is a File System?
-3. Why File Systems Matter
-4. Linux File System Hierarchy (FHS)
-5. Everything is a File
-6. Understanding the Root Directory
-7. Absolute vs Relative Paths
-8. Present Working Directory (pwd)
-9. Changing Directories (cd)
-10. Listing Files (ls)
-11. Hidden Files
-12. File Naming Rules
-13. Directory Tree
-14. Summary
-15. Practice Lab
+2. [What is a File System?](#what-is-a-file-system)
+3. [Why File Systems Matter](#why-file-systems-matter)
+4. [Linux File System Hierarchy (FHS)](#linux-file-system-hierarchy-fhs)
+5. [Everything is a File](#everything-is-a-file)
+6. [Understanding the Root Directory](#understanding-the-root-directory)
+7. [Absolute vs Relative Paths](#absolute-vs-relative-paths)
+8. [Present Working Directory (pwd)](#present-working-directory-pwd)
+9. [Changing Directories (cd)](#changing-directories-cd)
+10. [Listing Files (ls)](#listing-files-ls)
+11. [Hidden Files](#hidden-files)
+12. [File Naming Rules](#file-naming-rules)
+13. [Directory Tree](#directory-tree)
+14. [Summary](#summary)
+15. [Practice Lab](#practice-lab)
 
 ---
 
-# Learning Objectives
+# 1) Learning Objectives
 
 After completing this chapter, you will be able to:
 
@@ -42,7 +42,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-# What is a File System?
+# 2) What is a File System?
 
 A **file system** is the method an operating system uses to organize, store, retrieve, and manage files on a storage device such as an SSD, HDD, or USB drive.
 
@@ -83,7 +83,7 @@ Without a file system, your operating system wouldn't know where any data is sto
 
 ---
 
-# Why Do We Need a File System?
+# 3 Why Do We Need a File System?
 
 Imagine a 1 TB SSD.
 
@@ -103,7 +103,7 @@ A file system provides:
 
 ---
 
-# Popular Linux File Systems
+# 4 Popular Linux File Systems
 
 | File System | Description |
 |-------------|-------------|
@@ -119,7 +119,7 @@ For this course, we'll mainly use **ext4**.
 
 ---
 
-# Linux File System Hierarchy Standard (FHS)
+# 5 Linux File System Hierarchy Standard (FHS)
 
 Linux follows the **Filesystem Hierarchy Standard (FHS)**.
 
@@ -143,7 +143,7 @@ This is called the **root directory**.
 
 ---
 
-# Linux Directory Tree
+# 6 Linux Directory Tree
 
 ```
 /
@@ -171,7 +171,7 @@ Every file and directory on the system exists somewhere under `/`.
 
 ---
 
-# Everything is a File
+# 7 Everything is a File
 
 One of Linux's core design principles is:
 
@@ -194,7 +194,7 @@ This uniform interface makes automation and scripting much easier.
 
 ---
 
-# The Root Directory (`/`)
+# 8 The Root Directory (`/`)
 
 The root directory is the highest level in the filesystem.
 
@@ -229,7 +229,7 @@ Examples:
 
 ---
 
-# Paths in Linux
+# 9 Paths in Linux
 
 A **path** tells Linux where a file or directory is located.
 
