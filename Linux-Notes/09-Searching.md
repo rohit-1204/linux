@@ -29,7 +29,7 @@ Searching helps you quickly find:
 
 ---
 
-# find Command
+# <mark>find Command</mark>
 
 Search files and directories based on conditions.
 
