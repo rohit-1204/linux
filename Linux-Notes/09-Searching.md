@@ -1,8 +1,8 @@
 # <mark>09 - Searching in Linux<mark/>
 
-## Learning Objectives
+## <span style="background-color: #FFFF00">Learning Objectives</span>
 
-After completing this chapter, you will be able to:
+`After completing this chapter, you will be able to:`
 
 - Search files in Linux
 - Search content inside files
@@ -12,7 +12,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-## Why Searching is Important
+## ==Why Searching is Important==
 
 In Linux systems, you often work with:
 
