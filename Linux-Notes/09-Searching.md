@@ -1,4 +1,4 @@
-# 09 - Searching in Linux
+# <mark>09 - Searching in Linux<mark/>
 
 ## Learning Objectives
 
