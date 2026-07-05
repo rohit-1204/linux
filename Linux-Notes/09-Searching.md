@@ -104,7 +104,7 @@ find / -size +100M
 
 ---
 
-# locate Command
+# <mark>locate Command<mark/>
 
 Fast file search using database index.
 
@@ -144,7 +144,7 @@ sudo updatedb
 
 ---
 
-# grep Command
+# <mark>grep Command<mark/>
 
 Search inside files (text search).
 
@@ -210,7 +210,7 @@ grep -w "root" file.txt
 
 ---
 
-# Pipe (|) for Searching
+# <mark>Pipe (|) for Searching<mark/>
 
 Pipe sends output of one command to another.
 
@@ -248,7 +248,7 @@ cat log.txt | grep "error"
 
 ---
 
-# which Command
+# <mark>which Command<mark/>
 
 Find location of executable command.
 
@@ -270,7 +270,7 @@ which python
 
 ---
 
-# whereis Command
+# <mark>whereis Command/<mark>
 
 Find binary, source, and manual pages.
 
