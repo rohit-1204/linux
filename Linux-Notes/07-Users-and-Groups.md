@@ -1,10 +1,10 @@
 ---
-title: Chapter 07 - Users and Groups
-chapter: 07
-part: 1
-difficulty: Beginner
-estimated_time: 2 Hours
-prerequisites:
+Title: Chapter 07 - Users and Groups
+Chapter: 07
+Part: 1
+Difficulty: Beginner
+Estimated_time: 2 Hours
+Prerequisites:
   - Linux File System
   - Linux Permissions
   - chmod
