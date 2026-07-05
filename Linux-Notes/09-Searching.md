@@ -93,14 +93,14 @@ find / -size +100M
 
 ## Common Options
 
-| Option | Meaning |
-|--------|--------|
-| -name | search by name |
-| -iname | case-insensitive name search |
-| -type f | files only |
-| -type d | directories only |
-| -size | file size |
-| -mtime | modified time |
+| Option | Meaning | Example |
+| :--- | :--- | :--- |
+| `-name` | search by name | `find . -name "app.log"` |
+| `-iname` | case-insensitive name search | `find . -iname "README.md"` |
+| `-type f` | files only | `find /var/log -type f` |
+| `-type d` | directories only | `find /etc -type d` |
+| `-size` | file size | `find . -size +10M` |
+| `-mtime` | modified time | `find . -mtime -7` |
 
 ---
 
