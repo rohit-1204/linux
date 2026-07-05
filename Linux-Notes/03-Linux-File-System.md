@@ -10,7 +10,7 @@
 
 # Table of Contents
 
-[1. Learning Objectives](#Learning Objectives)
+1. [Learning Objectives](#Learning Objectives)
 2. What is a File System?
 3. Why File Systems Matter
 4. Linux File System Hierarchy (FHS)
