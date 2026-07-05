@@ -2,7 +2,7 @@
 
 ## <span style="background-color: #FFFF00">Learning Objectives</span>
 
-`After completing this chapter, you will be able to:`
+==After completing this chapter, you will be able to:==
 
 - Search files in Linux
 - Search content inside files
